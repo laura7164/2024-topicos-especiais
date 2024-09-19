@@ -1,0 +1,72 @@
+1: Notebook Multilaser Legacy PC270 Intel Celeron N4020 14,1" 4GB eMMC 64 GB Windows 11 Touchpad Numérico
+2: Notebook Positivo Motion C4500D Intel Celeron N4020 14" 4GB HD 500 GB Windows 10 Touchpad Numérico
+3: Notebook Positivo Vision C14 C4128A-14 Intel Celeron N4020 14,1" 4GB eMMC 128 GB Windows 11
+4: Notebook Positivo Motion Plus Q464B Intel Atom 14" 4GB eMMC 64 GB Windows 10 Touchpad Numérico
+5: Notebook Ultra 300 UB230 Intel Celeron N4020 14" 4GB SSD 120 GB Windows 11 Touchpad Numérico
+6: Notebook 2 em 1 Positivo Duo C464D Intel Celeron N4020 11,6" 4GB eMMC 64 GB Windows 11 Touchscreen
+7: Notebook Acer Chromebook C733-C607 Intel Celeron N4020 11,6" 4GB eMMC 32 GB Chrome OS
+8: Notebook Positivo Motion C4128E Intel Celeron N3350 14" 4GB SSD 128 GB Windows 10
+9: Notebook Positivo Motion C4500Ei Intel Celeron N3350 14,1" 4GB HD 500 GB Linux
+10: Notebook 2 em 1 Multilaser M11W Prime PC280 Intel Celeron N4020 11,6" 4GB eMMC 64 GB Windows 11 Touchscreen
+11: Notebook Positivo Motion Q464C Intel Atom x5 Z8350 14,1" 4GB eMMC 64 GB Windows 10
+12: Notebook Multilaser Legacy Cloud PC132 Intel Atom x5 Z8350 14" 2GB HD 32 GB Windows 10
+13: Notebook Positivo Vision C15 Intel Celeron N4020 15,6" 4GB eMMC 128GB Windows 11 c4128a-15-3002686
+14: Notebook Compaq Presario 427 Intel Pentium N3700 14,1" 4GB SSD 240 GB Linux
+15: Notebook 2 em 1 Positivo Duo C4128B-1 Intel Celeron N4020 11,6" 4GB eMMC 128 GB Windows 11 Touchscreen
+16: Notebook Ultra UB250 Intel Celeron N4020C 14" 4GB eMMC 128GB Windows 11
+17: Notebook Positivo Motion Q 4128B Intel Atom 14" 4GB SSD 128 GB Windows 10
+18: Notebook Lenovo Chromebook 100e 82J80001BR AMD 3015Ce 11,6" 4GB eMMC 32 GB Chrome OS
+19: Notebook Positivo Vision C15 Intel Celeron N4020 15,6" 4GB eMMC 128GB Linux C4128A-15-3002676
+20: Notebook Positivo Motion C464g-14 Intel Celeron Dual Core N4020 14,1" 4GB HD 1 TB Híbrido SSD 128 GB Windows 11
+21: Notebook Positivo Motion C4120F-S Intel Celeron N4020 14" 4GB SSD 120 GB Windows 11
+22: Notebook Ultra UB322 Intel Pentium J3710 14" 4GB HD 500 GB Windows 10 Touchpad Numérico
+23: Notebook Multilaser Legacy Book PC312 Intel Pentium N3700 14" 4GB HD 64 GB Windows 10 Touchpad Numérico
+24: Notebook Acer Chromebook C733-C3V2 Intel Celeron N4020 11,6" 4GB eMMC 32 GB Chrome OS
+25: Notebook Multilaser Legacy Cloud PC135 Intel Atom x5 Z8350 14" 2GB HD 64 GB Windows 10 Touchpad Numérico
+26: Notebook Positivo Motion C C4128G-14 Intel Celeron N4020 14,1" 4GB eMMC 128 GB Windows 11
+27: Notebook Multilaser Legacy Book PC319 Intel Pentium N3700 14,1" 4GB HD 64 GB Windows 10 Touchpad Numérico
+28: Notebook Multilaser Legacy Cloud PC130 Intel Atom 14" 2GB eMMC 32 GB Windows 10
+29: Notebook Positivo Vision C15 Intel Celeron Dual Core 15,6" 8GB SSD 240GB Linux c8240ai-15-3002712
+30: Notebook Philco PNB14 Intel Celeron N3350 14,1" 4GB eMMC 128 GB Windows 10
+31: Notebook 2 em 1 Positivo Duo C464C Intel Celeron N3350 11,6" 4GB eMMC 64 GB Windows 10 Touchscreen
+32: Notebook Windows 11 Home, Tela 15.6 Pol, Processador Celeron N4020C, Memória 4GB 128GB eMMC UB261 - Multi
+33: Notebook Acer Chromebook C733T-C2HY Intel Celeron N4020 11,6" 4GB eMMC 32 GB Chrome OS Touchscreen
+34: Notebook Positivo Vision C15 Intel Celeron N4020 Linux 8GB RAM 240GB SSD Lumina Bar 15.6” HD Cinza
+35: Notebook Ultra UB320 Intel Pentium J3710 14,1" 4GB SSD 120 GB Windows 10 Touchpad Numérico
+36: Notebook Compaq Presario 435 Intel Core i3 6157U 14,1" 4GB SSD 240 GB Linux
+37: Notebook Compaq Presario 444 Intel Core i3-6167U Linux 4GB 240GB SSD 14,1" LED HD - Cinza
+38: Notebook Multilaser Ultra Intel Core i3 8145U 14" 4GB SSD 120GB Windows 11 UB480
+39: Notebook Samsung Galaxy Book Go, Windows 11 Home, 4GB, 128GB UFS, 14`` Full HD LED, 1.38kg - Prata
+40: Notebook Compaq Presario 440 Intel Core i3 6157U 14,1" 4GB SSD 240 GB Windows 10
+41: Notebook Ultra UB432 Intel Core i3 7020U 14,1" 4GB HD 1 TB Linux Touchpad Numérico
+42: Notebook Joy Intel Celeron 4GB SSD 128GB Tela 14.1 Polegadas Windows 11 HQ
+43: Notebook Positivo Master N40I Intel Celeron N3010 14" 4GB eMMC 32 GB Windows 10
+44: Notebook Positivo Vision C15 Intel® Celeron® N4020 Linux 8GB RAM 256GB eMMC Lumina Bar 15.6” HD - Cinza
+45: Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
+46: Notebook Positivo Motion Q4128C Intel Atom x5 Z8350 14" 4GB eMMC 128 GB Windows 10
+47: Notebook Acer Chromebook N7 C731T-C2GT Intel Celeron N3060 11,6" 4GB eMMC 32 GB Chrome OS Touchscreen
+48: Notebook Acer Chromebook C731-C9DA Intel Celeron N3060 11,6" 4GB eMMC 32 GB Chrome OS HDMI
+49: Notebook Compaq Presario 420 Intel Pentium N3700 14,1" 4GB SSD 120 GB Windows 10
+50: Notebook Samsung Chromebook 4 XE310XBA-KT1BR Intel Celeron N4000 11,6" 4GB eMMC 32 GB Chrome OS
+51: Notebook Samsung Galaxy Book GO NP340XLA-K06BR Qualcomm Snapdragon 7c 14" 4GB SSD 128 GB Windows 11
+52: Notebook Asus 15.6 HD Celeron N4020 4GB 128GB ssd Win 11 Home Cinza - 90NB0TH1-M00KR0
+53: Notebook Positivo Motion C C41TEI Intel Celeron N3350 14,1" 4GB HD 1 TB Linux
+54: Chromebook Acer 511 Snapdragon 7c 11,6" 4GB eMMC 32GB ChromeOS C741L-S06P
+55: Notebook Asus E510MA-BR Intel Celeron N4020 15,6" 4GB eMMC 128 GB Windows 11
+56: Notebook Samsung Chromebook 4 XE310XBA-KT4BR Intel Celeron N4020 11,6" 4GB eMMC 64 GB Chrome OS
+57: Notebook Lenovo IdeaPad 1i 82VX0001BR Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
+58: Notebook Compact Presario 433 Intel Core i3 6157U 14" 4GB HD 1.000 GB Linux
+59: Notebook Acer Chromebook 311 11.6 HD Celeron N4020 4GB LPDDR4 32GB eMMC Chrome OS
+60: Notebook Compaq Presario 444 Intel Core i3- 6167U Linux 4GB 240GB SSD 14,1&quot; LED HD - Cinza
+61: Notebook Lenovo Chromebook E 81MA001TBR Intel Celeron N4020 11,6" 4GB eMMC 32 GB Chrome OS
+62: Notebook Lenovo IdeaPad 1i Intel Core i3 1215U14" 4GB 256GB Linux 83AFS00500
+63: Notebook 2 em 1 Positivo Duo C464A Intel Celeron N3350 12" 4GB HD 64 GB Windows 10 Touchscreen
+64: Notebook Lenovo IdeaPad 1 R3-7320U 4GB 256GB SSD Linux 15.6&quot; 82X5S00600 Cloud Grey
+65: Chromebook Acer 511 Intel Celeron N4500 11,6" 4GB eMMC 32GB ChromeOS C734-C6E8
+66: Notebook Vision Celeron Positivo Dual Core 128GB 4GB Windows 11 15.6 - Cinza
+67: Notebook Lenovo IdeaPad 3i 82BUS00000 Intel Celeron N4020 15,6" 4GB HD 500 GB Linux
+68: Notebook Positivo Motion C4128g-15 Intel Celeron N4020 15,6" 4GB eMMC 128 GB Windows 11
+69: Notebook Multilaser Ultra UB220 Intel Celeron N4020 15,6" 4GB SSD 120 GB Windows 11
+70: Notebook Positivo Master N4340 Intel Core i3 10110U 14" 8GB SSD 256GB Windows 11
+71: Notebook Positivo Vision i15 Intel Core i3 N300 15,6" 8GB SSD 512GB Linux
+72: Notebook Goldentec GT Silver Intel Celeron N3350 14" 4GB SSD 64 GB eMMC 64 GB Windows 10

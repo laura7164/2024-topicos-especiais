@@ -1,0 +1,71 @@
+1: Notebook 2 em 1 Samsung Galaxy Book3 360 NP750QFG-KS2BR Intel Core i7 1360P 15,6" 16GB SSD 1 TB Windows 11 Caneta Digital Leitor Biométrico Touchscreen
+2: Notebook Gamer Asus ROG Strix G16 G614JV-N3094W Intel Core i9 13980HX 16" 16GB SSD 512 GB Windows 11 GeForce RTX 4060
+3: Notebook Asus VivoBook 16 X1605ZA-MB310W Intel Core i7 1255U 16" 8GB SSD 256 GB Windows 11
+4: Notebook Asus Vivobook 15 Intel Core i5-1235U 15,6? 8GB SSD 512GB Linux X1504ZA-NJ983
+5: Notebook Dell Inspiron 15 3520 Intel Core i5 1235U 15,6" 8GB SSD 512GB Linux i3520uadl1010w
+6: Notebook Vaio FE15 VJFE52F11X-B5121H Intel Core i3 10110U 15,6" 4GB SSD 256 GB Windows 11
+7: Notebook Dell Inspiron 15 3520 Intel Core i7 1255U 15,6" 16GB SSD 512GB Linux i3520u1014w
+8: Notebook Gamer Lenovo Legion Slim 5i Intel Core i7 13700H RTX 4050 16" 16GB SSD 512GB Windows 11 83D60008BR
+9: Notebook Gamer Asus TUG Gaming F15 Intel Core i7-13620H RTX 4050 15,6" 8GB SSD 512GB Linux FX507VU-LP151
+10: Notebook Asus Vivobook Go 15 Intel Core i3-N305 15,6? 8GB SSD 512GB Linux E1504GA-NJ438
+11: Notebook Gamer Asus TUF Gaming F15 Intel Core i7-13620H RTX 4050 15,6" 16GB SSD 512GB Windows 11 FX507VU-LP177W
+12: Notebook Gamer Gigabyte G5 Intel Core i5 12500H RTX 3050 Ti 15,6" 16GB SSD 512GB Windows 11 ME-51BR213SH
+13: Notebook Lenovo V14 82UL0017BR Intel Core i7 1255U 14" 16GB SSD 512 GB Windows 11
+14: Notebook Multilaser Ultra Intel Core i3 8145U 14" 4GB SSD 120GB Windows 11 UB480
+15: Notebook Lenovo V14 82UN000CBR AMD Ryzen 5 5625U 14" 8GB SSD 256 GB Windows 11
+16: Notebook Positivo Motion C4500Ei Intel Celeron N3350 14,1" 4GB HD 500 GB Linux
+17: Notebook 2 em 1 Samsung Galaxy Book3 360 NP730QFG-KF2BR Intel Core i5 1335U 13,3" 8GB SSD 256 GB Windows 11 Caneta Digital Leitor Biométrico Touchscreen
+18: Notebook Samsung Galaxy Book4 Intel Core i3-1315U 15,6" 8GB SSD 256GB Windows 11 NP750XGJ-KG5BR
+19: Notebook Lenovo IdeaPad 3i 82BS0006BR Intel Core i3 10110U 15,6" 4GB SSD 256 GB Windows 10
+20: Notebook Lenovo IdeaPad 1i Intel Core i5 1235U 15,6" 8GB SSD 512GB Windows 11 82VY000QBR
+21: Notebook Acer Aspire 5 Intel Core i5 12450H 8GB RAM 256GB SSD Windows 11 Tela Full HD 15.6 A515-57-55B8
+22: Notebook Acer Aspire 5 A515-56G-551P Intel Core i5 1135G7 15,6" 8GB SSD 512 GB Windows 11 GeForce MX350
+23: Notebook Lenovo IdeaPad 3 82MF0004BR AMD Ryzen 7 5700U 15,6" 8GB SSD 256 GB Windows 11
+24: Notebook Asus VivoBook Go 15 E1504GA-NJ435W Intel Core i3 N305 15,6" 8 GB SSD 512GB Windows 11
+25: Notebook Acer Aspire 5 A514-54-324N Intel Core i3 1115G4 14" 4GB SSD 256 GB Linux
+26: Notebook Samsung Galaxy Book3 Intel Core i5 1335U 15,6" 8GB SSD 256GB Windows 11 NP754XFG-KF1BR
+27: Notebook Dell Inspiron 15 3520 Intel Core i3 1215U 15,6" 8GB SSD 256GB Linux i3520uadl1003w
+28: Notebook Lenovo IdeaPad 3i 82MDS00600 Intel Core i3 1115G4 15,6" 4GB SSD 128 GB Linux
+29: Notebook Gamer Dell G15 G15-i1000-U20P Intel Core i5 10500H 15,6" 8GB SSD 512 GB Linux GeForce GTX 1650
+30: Notebook Samsung Book Intel Core i5 1135G7 15,6" 8GB 256 GB Windows 11 NP550XDA-KH2BR
+31: Notebook Samsung Galaxy Book2 Intel Core i5 1235U 15,6" 8GB SSD 256GB Windows 11 NP550XED-KF2BR
+32: Notebook Lenovo IdeaPad 3i 82MD000ABR Intel Core i3 1115G4 15,6" 4GB SSD 256 GB Windows 11
+33: Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
+34: Notebook Acer Aspire 3 A315-58-573P Intel Core i5 1135G7 15,6" 8GB SSD 256 GB Windows 11
+35: Notebook Acer Aspire 5 Ryzen 7-5700U 15,6? 12GB SSD 512GB Linux A515-45-R36L
+36: Notebook 2 em 1 Samsung Galaxy Book3 360 NP750QFG-KS1BR Intel Core i7 1360P 15,6" 16GB SSD 512 GB Windows 11 Caneta Digital Leitor Biométrico Touchscreen
+37: Notebook Samsung Samsung Book NP550XDA-KV3BR Intel Core i3 1115G4 15,6" 4GB SSD 256 GB Windows 11
+38: Notebook Gamer Asus TUF Gaming F15 Intel Core i5 12500H GTX 3050 15,6" 8GB SSD 512GB Linux FX507ZC4-HN100
+39: Notebook Gamer Asus TUF Gaming F15 FX507ZC4-HN113W Intel Core i7 12700H 15,6" 16GB SSD 512 GB Windows 11 GeForce RTX 3050
+40: Notebook Gamer Dell G15 5520 G15-i1200-M20 Intel Core i5 12500H 15,6" 8GB SSD 512 GB Windows 11 GeForce RTX 3050
+41: Notebook Gamer Dell G15 5530 G15-i1300-A20P Intel Core i5 13450HX 15,6" 8GB SSD 512 GB Windows 11 GeForce RTX 3050
+42: Notebook Samsung Samsung Book NP550XDA-KV4BR Intel Core i3 1115G4 15,6" 8GB SSD 256 GB Windows 11
+43: Notebook Acer Aspire 5 A515-57-57T3 Intel Core i5 12450H 15" 8GB SSD 512 GB Windows 11
+44: Notebook Acer Aspire 5 Intel Core i5 12450H 15,6" 8GB SSD 256GB Windows 11 A515-57-53Z5
+45: Notebook Lenovo IdeaPad 1i 82VY000PBR Intel Core i7 1255U 12ª Geração 15,6" 12GB SSD 512GB Windows 11
+46: Notebook Lenovo IdeaPad 3i 82BSS00100 Intel Core i3 10110U 15,6" 4GB SSD 256 GB Linux
+47: Notebook Asus Vivobook Go 15 Intel Core i3-N305 15,6" 4GB SSD 128GB Windows 11 E1504GA-NJ440W
+48: Notebook Positivo Vision R15 AMD Ryzen 5-5500U 15,6" 8GB SSD 256GB Windows 11
+49: Notebook Asus Vivobook 15 Intel Core i5 1235U 15,6" 8GB SSD 512GB Windows 11 X1504ZA-NJ987W
+50: Notebook Acer Aspire 5 A515-54-557C Intel Core i5 10210U 15,6" 4GB SSD 256 GB Linux
+51: Notebook Dell Inspiron 15 3530 Intel i5 1335U 15,6" 16GB SSD 512GB Windows 11 brpichbto3530gqpbw
+52: Notebook Acer Aspire 5 A515-57-58W1 Intel Core i5 12450H 15,6" 8GB SSD 256 GB Linux
+53: Notebook Lenovo Yoga Slim 6i 83C70001BR Intel Core i7 1260P 14" 16GB SSD 512 GB Windows 11 Touchscreen
+54: Notebook Lenovo IdeaPad 3i 82BU0006BR Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
+55: Notebook Lenovo IdeaPad 1i 83AF0000BR Intel Core i3 1215U 14" 4GB SSD 256 GB Windows 11
+56: Notebook Samsung Galaxy Book2 Intel Core i3 1215U 15,6" 4GB SSD 256GB Windows 11 NP550XED-KT3BR
+57: Notebook Gamer Acer Nitro V 15 Intel Core i5 13420H RTX 3050 15,6" 8GB SSD 512GB Windows 11 ANV15-51-58AZ
+58: Notebook Acer Aspire 3 A315-23-R0LD AMD Ryzen 5 3500U 15,6" 12GB HD 1 TB Windows 10
+59: Notebook Lenovo IdeaPad 3i 82BUS00100 Intel Celeron N4020 15,6" 4GB SSD 128 GB Linux
+60: Notebook Lenovo IdeaPad 1i Intel Core i3-1215U 15,6" 8GB SSD 256GB Windows 11 82VY000SBR
+61: Notebook Acer Aspire 3 A315-510P-34XC Intel Core i3 N305 15,6" 8GB SSD 256 GB Windows 11
+62: Notebook Gamer Lenovo LOQ Intel Core i5 12450H RTX 2050 15,6" 16GB SSD 512GB Windows 11 83EU0001BR
+63: Notebook Dell Inspiron 15 3520 Intel Core i7 1255U 15,6" 16GB SSD 512GB Windows 11 i3520w1014w
+64: Notebook Asus Vivobook 16 Intel Core i7 16" 8GB SSD 512GB Windows 11 X1605ZA-MB311W
+65: Notebook Acer Aspire 3 A315-56-35ET Intel Core i3 1005G1 15,6" 8GB SSD 512 GB Windows 10
+66: Notebook Acer Aspire 5 A514-54-397J Intel Core i3 1115G4 14" 8GB SSD 256 GB Windows 11
+67: Notebook Asus Vivobook Go Intel Core i3-N305 15,6" 4GB SSD 256GB Windows 11 E1504GA-NJ447
+68: Notebook Samsung Galaxy Book4 Intel Core i7-1355U 15,6? 16GB SSD 512GB Windows 11 NP750XGJ-KG1BR
+69: Notebook Acer Aspire 3 A315-56-34A9 Intel Core i3 1005G1 15,6" 8GB HD 1 TB Windows 10
+70: Notebook Samsung Galaxy Book GO NP340XLA-K06BR Qualcomm Snapdragon 7c 14" 4GB SSD 128 GB Windows 11
+71: Notebook Positivo Vision C14 C4128A-14 Intel Celeron N4020 14,1" 4GB eMMC 128 GB Windows 11
