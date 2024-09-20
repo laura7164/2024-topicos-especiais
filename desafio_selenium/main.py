@@ -69,7 +69,6 @@ with open('products.txt', 'w', encoding='utf-8') as file:
     for i, (product, link) in enumerate(all_products, 1):
         file.write(f"{i}: {product} | {link}\n")
 
-
 # para voltar à primeira página
 driver.get('https://www.zoom.com.br/search?q=notebook&page=1')  # para navegar diretamente para a primeira página da pesquisa
 
@@ -98,9 +97,8 @@ try:
 except Exception as e:
     print(f"Erro ao aplicar filtro: {e}")
 
-
 # para voltar à primeira página
-driver.get('https://www.zoom.com.br/search?q=notebook&page=1')  # para navegar diretamente para a primeira página da pesquisa
+driver.get('https://www.zoom.com.br/search?q=notebook&page=1&sortBy=rating_desc')  # para navegar diretamente para a primeira página da pesquisa
 
 # para alterar o filtro de busca de "melhor avaliado" para "menor preço"
 try:
@@ -124,7 +122,6 @@ try:
 
 except Exception as e:
     print(f"Erro ao aplicar filtro: {e}")
-
 
 # função para ler os produtos de um arquivo
 def read_products(file_name):
@@ -159,7 +156,6 @@ print("\nTop 5 produtos:")
 for product in top_5_products:
     print(f"{product}: {best_rated_data[product]}")
 
-
 def get_product_details(product_url):
     driver.get(product_url)
     sleep(3)  # espera o carregamento da página
@@ -180,7 +176,6 @@ def get_product_details(product_url):
         print(f"Erro ao extrair detalhes do produto: {e}")
         return None
 
-
 # para criar um arquivo para salvar as configurações
 with open('top_5_product_details.txt', 'w', encoding='utf-8') as details_file:
     for product in top_5_products:
@@ -192,7 +187,6 @@ with open('top_5_product_details.txt', 'w', encoding='utf-8') as details_file:
             details_file.write(f"Preço: {details['price']}\n")
             details_file.write(f"Especificações:\n{details['specifications']}\n")
             details_file.write("\n" + "="*40 + "\n\n")  # separador entre produtos
-
 
 sleep(3)
 driver.close()

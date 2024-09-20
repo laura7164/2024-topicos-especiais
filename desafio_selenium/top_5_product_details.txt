@@ -5,13 +5,6 @@ Especificações:
 
 ========================================
 
-Produto: Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
-Preço: R$ 1.699,90
-Especificações:
-O Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11, da Asus, conta com o sistema operacional Windows 11. O X515MA-BR933WS, da Asus, possui tela de resolução HD e 15.6". Este notebook da Asus possui um processador Intel Celeron N4020 e uma memória RAM de 4.0GB. O SSD de 128.0GB é o componente responsável pelo armazenamento interno do Asus X515MA-BR933WS. Este Asus usa placa de vídeo Integrada (On-Board), não indicada para jogos ou programas de edição. O notebook Asus tem conexão sem fio por Bluetooth, Wi-Fi Dual-band para internet e para acessórios wireless. Além disso, ele tem entradas HDMI, Áudio, USB 3.2, USB 2.0.
-
-========================================
-
 Produto: Notebook Positivo Motion C4500Ei Intel Celeron N3350 14,1" 4GB HD 500 GB Linux
 Preço: R$ 1.336,68
 Especificações:
@@ -23,6 +16,13 @@ Produto: Notebook Samsung Galaxy Book GO NP340XLA-K06BR Qualcomm Snapdragon 7c 1
 Preço: R$ 1.709,10
 Especificações:
 O Notebook Samsung Galaxy Book GO NP340XLA-K02BR Qualcomm Snapdragon 7c 14" 4GB SSD 128 GB Windows 10 da Samsung vem com o sistema operacional Windows 10. Com 32.39cm de largura, 22.48cm de profundidade e 1.49cm de altura, o Galaxy Book GO pesa 1.38kg. Este notebook da Samsung traz tela de 14.0" e resolução Full HD. No quesito desempenho, o laptop Samsung vem com o processador Qualcomm Snapdragon 7c e uma memória RAM de 4.0GB. O SSD de 128.0GB é o componente responsável pelo armazenamento interno do Samsung NP340XLA-K02BR. Este Samsung usa placa de vídeo Integrada (On-Board), não indicada para jogos ou programas de edição. O notebook Samsung tem conexão sem fio por Wi-Fi, Bluetooth para internet e para acessórios wireless. Além disso, ele tem entradas USB-C, USB 2.0, Leitor de cartão, Áudio.
+
+========================================
+
+Produto: Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
+Preço: R$ 1.699,90
+Especificações:
+O Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11, da Asus, conta com o sistema operacional Windows 11. O X515MA-BR933WS, da Asus, possui tela de resolução HD e 15.6". Este notebook da Asus possui um processador Intel Celeron N4020 e uma memória RAM de 4.0GB. O SSD de 128.0GB é o componente responsável pelo armazenamento interno do Asus X515MA-BR933WS. Este Asus usa placa de vídeo Integrada (On-Board), não indicada para jogos ou programas de edição. O notebook Asus tem conexão sem fio por Bluetooth, Wi-Fi Dual-band para internet e para acessórios wireless. Além disso, ele tem entradas HDMI, Áudio, USB 3.2, USB 2.0.
 
 ========================================
 
