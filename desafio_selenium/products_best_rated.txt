@@ -1,71 +1,71 @@
-1: Notebook 2 em 1 Samsung Galaxy Book3 360 NP750QFG-KS2BR Intel Core i7 1360P 15,6" 16GB SSD 1 TB Windows 11 Caneta Digital Leitor Biométrico Touchscreen
-2: Notebook Gamer Asus ROG Strix G16 G614JV-N3094W Intel Core i9 13980HX 16" 16GB SSD 512 GB Windows 11 GeForce RTX 4060
-3: Notebook Asus VivoBook 16 X1605ZA-MB310W Intel Core i7 1255U 16" 8GB SSD 256 GB Windows 11
-4: Notebook Asus Vivobook 15 Intel Core i5-1235U 15,6? 8GB SSD 512GB Linux X1504ZA-NJ983
-5: Notebook Dell Inspiron 15 3520 Intel Core i5 1235U 15,6" 8GB SSD 512GB Linux i3520uadl1010w
-6: Notebook Vaio FE15 VJFE52F11X-B5121H Intel Core i3 10110U 15,6" 4GB SSD 256 GB Windows 11
-7: Notebook Dell Inspiron 15 3520 Intel Core i7 1255U 15,6" 16GB SSD 512GB Linux i3520u1014w
-8: Notebook Gamer Lenovo Legion Slim 5i Intel Core i7 13700H RTX 4050 16" 16GB SSD 512GB Windows 11 83D60008BR
-9: Notebook Gamer Asus TUG Gaming F15 Intel Core i7-13620H RTX 4050 15,6" 8GB SSD 512GB Linux FX507VU-LP151
-10: Notebook Asus Vivobook Go 15 Intel Core i3-N305 15,6? 8GB SSD 512GB Linux E1504GA-NJ438
-11: Notebook Gamer Asus TUF Gaming F15 Intel Core i7-13620H RTX 4050 15,6" 16GB SSD 512GB Windows 11 FX507VU-LP177W
-12: Notebook Gamer Gigabyte G5 Intel Core i5 12500H RTX 3050 Ti 15,6" 16GB SSD 512GB Windows 11 ME-51BR213SH
-13: Notebook Lenovo V14 82UL0017BR Intel Core i7 1255U 14" 16GB SSD 512 GB Windows 11
-14: Notebook Multilaser Ultra Intel Core i3 8145U 14" 4GB SSD 120GB Windows 11 UB480
-15: Notebook Lenovo V14 82UN000CBR AMD Ryzen 5 5625U 14" 8GB SSD 256 GB Windows 11
-16: Notebook Positivo Motion C4500Ei Intel Celeron N3350 14,1" 4GB HD 500 GB Linux
-17: Notebook 2 em 1 Samsung Galaxy Book3 360 NP730QFG-KF2BR Intel Core i5 1335U 13,3" 8GB SSD 256 GB Windows 11 Caneta Digital Leitor Biométrico Touchscreen
-18: Notebook Samsung Galaxy Book4 Intel Core i3-1315U 15,6" 8GB SSD 256GB Windows 11 NP750XGJ-KG5BR
-19: Notebook Lenovo IdeaPad 3i 82BS0006BR Intel Core i3 10110U 15,6" 4GB SSD 256 GB Windows 10
-20: Notebook Lenovo IdeaPad 1i Intel Core i5 1235U 15,6" 8GB SSD 512GB Windows 11 82VY000QBR
-21: Notebook Acer Aspire 5 Intel Core i5 12450H 8GB RAM 256GB SSD Windows 11 Tela Full HD 15.6 A515-57-55B8
-22: Notebook Acer Aspire 5 A515-56G-551P Intel Core i5 1135G7 15,6" 8GB SSD 512 GB Windows 11 GeForce MX350
-23: Notebook Lenovo IdeaPad 3 82MF0004BR AMD Ryzen 7 5700U 15,6" 8GB SSD 256 GB Windows 11
-24: Notebook Asus VivoBook Go 15 E1504GA-NJ435W Intel Core i3 N305 15,6" 8 GB SSD 512GB Windows 11
-25: Notebook Acer Aspire 5 A514-54-324N Intel Core i3 1115G4 14" 4GB SSD 256 GB Linux
-26: Notebook Samsung Galaxy Book3 Intel Core i5 1335U 15,6" 8GB SSD 256GB Windows 11 NP754XFG-KF1BR
-27: Notebook Dell Inspiron 15 3520 Intel Core i3 1215U 15,6" 8GB SSD 256GB Linux i3520uadl1003w
-28: Notebook Lenovo IdeaPad 3i 82MDS00600 Intel Core i3 1115G4 15,6" 4GB SSD 128 GB Linux
-29: Notebook Gamer Dell G15 G15-i1000-U20P Intel Core i5 10500H 15,6" 8GB SSD 512 GB Linux GeForce GTX 1650
-30: Notebook Samsung Book Intel Core i5 1135G7 15,6" 8GB 256 GB Windows 11 NP550XDA-KH2BR
-31: Notebook Samsung Galaxy Book2 Intel Core i5 1235U 15,6" 8GB SSD 256GB Windows 11 NP550XED-KF2BR
-32: Notebook Lenovo IdeaPad 3i 82MD000ABR Intel Core i3 1115G4 15,6" 4GB SSD 256 GB Windows 11
-33: Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
-34: Notebook Acer Aspire 3 A315-58-573P Intel Core i5 1135G7 15,6" 8GB SSD 256 GB Windows 11
-35: Notebook Acer Aspire 5 Ryzen 7-5700U 15,6? 12GB SSD 512GB Linux A515-45-R36L
-36: Notebook 2 em 1 Samsung Galaxy Book3 360 NP750QFG-KS1BR Intel Core i7 1360P 15,6" 16GB SSD 512 GB Windows 11 Caneta Digital Leitor Biométrico Touchscreen
-37: Notebook Samsung Samsung Book NP550XDA-KV3BR Intel Core i3 1115G4 15,6" 4GB SSD 256 GB Windows 11
-38: Notebook Gamer Asus TUF Gaming F15 Intel Core i5 12500H GTX 3050 15,6" 8GB SSD 512GB Linux FX507ZC4-HN100
-39: Notebook Gamer Asus TUF Gaming F15 FX507ZC4-HN113W Intel Core i7 12700H 15,6" 16GB SSD 512 GB Windows 11 GeForce RTX 3050
-40: Notebook Gamer Dell G15 5520 G15-i1200-M20 Intel Core i5 12500H 15,6" 8GB SSD 512 GB Windows 11 GeForce RTX 3050
-41: Notebook Gamer Dell G15 5530 G15-i1300-A20P Intel Core i5 13450HX 15,6" 8GB SSD 512 GB Windows 11 GeForce RTX 3050
-42: Notebook Samsung Samsung Book NP550XDA-KV4BR Intel Core i3 1115G4 15,6" 8GB SSD 256 GB Windows 11
-43: Notebook Acer Aspire 5 A515-57-57T3 Intel Core i5 12450H 15" 8GB SSD 512 GB Windows 11
-44: Notebook Acer Aspire 5 Intel Core i5 12450H 15,6" 8GB SSD 256GB Windows 11 A515-57-53Z5
-45: Notebook Lenovo IdeaPad 1i 82VY000PBR Intel Core i7 1255U 12ª Geração 15,6" 12GB SSD 512GB Windows 11
-46: Notebook Lenovo IdeaPad 3i 82BSS00100 Intel Core i3 10110U 15,6" 4GB SSD 256 GB Linux
-47: Notebook Asus Vivobook Go 15 Intel Core i3-N305 15,6" 4GB SSD 128GB Windows 11 E1504GA-NJ440W
-48: Notebook Positivo Vision R15 AMD Ryzen 5-5500U 15,6" 8GB SSD 256GB Windows 11
-49: Notebook Asus Vivobook 15 Intel Core i5 1235U 15,6" 8GB SSD 512GB Windows 11 X1504ZA-NJ987W
-50: Notebook Acer Aspire 5 A515-54-557C Intel Core i5 10210U 15,6" 4GB SSD 256 GB Linux
-51: Notebook Dell Inspiron 15 3530 Intel i5 1335U 15,6" 16GB SSD 512GB Windows 11 brpichbto3530gqpbw
-52: Notebook Acer Aspire 5 A515-57-58W1 Intel Core i5 12450H 15,6" 8GB SSD 256 GB Linux
-53: Notebook Lenovo Yoga Slim 6i 83C70001BR Intel Core i7 1260P 14" 16GB SSD 512 GB Windows 11 Touchscreen
-54: Notebook Lenovo IdeaPad 3i 82BU0006BR Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11
-55: Notebook Lenovo IdeaPad 1i 83AF0000BR Intel Core i3 1215U 14" 4GB SSD 256 GB Windows 11
-56: Notebook Samsung Galaxy Book2 Intel Core i3 1215U 15,6" 4GB SSD 256GB Windows 11 NP550XED-KT3BR
-57: Notebook Gamer Acer Nitro V 15 Intel Core i5 13420H RTX 3050 15,6" 8GB SSD 512GB Windows 11 ANV15-51-58AZ
-58: Notebook Acer Aspire 3 A315-23-R0LD AMD Ryzen 5 3500U 15,6" 12GB HD 1 TB Windows 10
-59: Notebook Lenovo IdeaPad 3i 82BUS00100 Intel Celeron N4020 15,6" 4GB SSD 128 GB Linux
-60: Notebook Lenovo IdeaPad 1i Intel Core i3-1215U 15,6" 8GB SSD 256GB Windows 11 82VY000SBR
-61: Notebook Acer Aspire 3 A315-510P-34XC Intel Core i3 N305 15,6" 8GB SSD 256 GB Windows 11
-62: Notebook Gamer Lenovo LOQ Intel Core i5 12450H RTX 2050 15,6" 16GB SSD 512GB Windows 11 83EU0001BR
-63: Notebook Dell Inspiron 15 3520 Intel Core i7 1255U 15,6" 16GB SSD 512GB Windows 11 i3520w1014w
-64: Notebook Asus Vivobook 16 Intel Core i7 16" 8GB SSD 512GB Windows 11 X1605ZA-MB311W
-65: Notebook Acer Aspire 3 A315-56-35ET Intel Core i3 1005G1 15,6" 8GB SSD 512 GB Windows 10
-66: Notebook Acer Aspire 5 A514-54-397J Intel Core i3 1115G4 14" 8GB SSD 256 GB Windows 11
-67: Notebook Asus Vivobook Go Intel Core i3-N305 15,6" 4GB SSD 256GB Windows 11 E1504GA-NJ447
-68: Notebook Samsung Galaxy Book4 Intel Core i7-1355U 15,6? 16GB SSD 512GB Windows 11 NP750XGJ-KG1BR
-69: Notebook Acer Aspire 3 A315-56-34A9 Intel Core i3 1005G1 15,6" 8GB HD 1 TB Windows 10
-70: Notebook Samsung Galaxy Book GO NP340XLA-K06BR Qualcomm Snapdragon 7c 14" 4GB SSD 128 GB Windows 11
-71: Notebook Positivo Vision C14 C4128A-14 Intel Celeron N4020 14,1" 4GB eMMC 128 GB Windows 11
+1: Notebook 2 em 1 Samsung Galaxy Book3 360 NP750QFG-KS2BR Intel Core i7 1360P 15,6" 16GB SSD 1 TB Windows 11 Caneta Digital Leitor Biométrico Touchscreen | https://www.zoom.com.br/notebook/notebook-2-em-1-samsung-galaxy-book3-360-np750qfg-ks2br-intel-core-i7-1360p-15-6-16gb-ssd-1-tb-windows-11-caneta-digital-leitor-biometrico-touchscreen?_lc=88&searchterm=notebook
+2: Notebook Gamer Asus ROG Strix G16 G614JV-N3094W Intel Core i9 13980HX 16" 16GB SSD 512 GB Windows 11 GeForce RTX 4060 | https://www.zoom.com.br/notebook/notebook-gamer-asus-rog-strix-g16-g614jv-n3094w-intel-core-i9-13980hx-16-16gb-ssd-512-gb-windows-11-geforce-rtx-4060?_lc=88&searchterm=notebook
+3: Notebook Asus VivoBook 16 X1605ZA-MB310W Intel Core i7 1255U 16" 8GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-asus-vivobook-16-x1605za-mb310w-intel-core-i7-1255u-16-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+4: Notebook Asus Vivobook 15 Intel Core i5-1235U 15,6? 8GB SSD 512GB Linux X1504ZA-NJ983 | https://www.zoom.com.br/notebook/notebook-asus-vivobook-15-x1504za-nj983-intel-core-i5-1235u-15-6-8gb-ssd-512-gb-linux?_lc=88&searchterm=notebook
+5: Notebook Dell Inspiron 15 3520 Intel Core i5 1235U 15,6" 8GB SSD 512GB Linux i3520uadl1010w | https://www.zoom.com.br/notebook/notebook-dell-inspiron-15-3520-i3520uadl1010w-intel-core-i5-1235u-15-6-8gb-ssd-512-gb-linux?_lc=88&searchterm=notebook
+6: Notebook Vaio FE15 VJFE52F11X-B5121H Intel Core i3 10110U 15,6" 4GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-vaio-fe15-vjfe52f11x-b5121h-intel-core-i3-10110u-15-6-4gb-ssd-256-gb-windows-11-10-geracao?_lc=88&searchterm=notebook
+7: Notebook Dell Inspiron 15 3520 Intel Core i7 1255U 15,6" 16GB SSD 512GB Linux i3520u1014w | https://www.zoom.com.br/notebook/notebook-dell-inspiron-15-3520-i3520u1014w-intel-core-i7-1255u-15-6-16gb-ssd-512-gb-linux?_lc=88&searchterm=notebook
+8: Notebook Gamer Lenovo Legion Slim 5i Intel Core i7 13700H RTX 4050 16" 16GB SSD 512GB Windows 11 83D60008BR | https://www.zoom.com.br/notebook/notebook-lenovo-legion-5i-83d60008br-intel-core-i7-13700h-16-16gb-windows-11-geforce-rtx-4050?_lc=88&searchterm=notebook
+9: Notebook Gamer Asus TUG Gaming F15 Intel Core i7-13620H RTX 4050 15,6" 8GB SSD 512GB Linux FX507VU-LP151 | https://www.zoom.com.br/notebook/notebook-gamer-asus-tuf-gaming-f15-fx507vu-lp151-intel-core-i7-13620h-15-6-8gb-ssd-512-gb-linux-geforce-rtx-4050?_lc=88&searchterm=notebook
+10: Notebook Asus Vivobook Go 15 Intel Core i3-N305 15,6? 8GB SSD 512GB Linux E1504GA-NJ438 | https://www.zoom.com.br/notebook/notebook-asus-vivobook-go-e1504ga-nj438-intel-core-i3-n305-15-6-8gb-ssd-512-gb-linux?_lc=88&searchterm=notebook
+11: Notebook Gamer Asus TUF Gaming F15 Intel Core i7-13620H RTX 4050 15,6" 16GB SSD 512GB Windows 11 FX507VU-LP177W | https://www.zoom.com.br/notebook/notebook-gamer-asus-tuf-gaming-f15-fx507vu-lp177w-intel-core-i7-13620h-15-6-16gb-ssd-512-gb-windows-11-geforce-rtx-4050?_lc=88&searchterm=notebook
+12: Notebook Gamer Gigabyte G5 Intel Core i5 12500H RTX 3050 Ti 15,6" 16GB SSD 512GB Windows 11 ME-51BR213SH | https://www.zoom.com.br/notebook/notebook-gamer-gigabyte-g5-me-51br213sh-intel-core-i5-12500h-15-6-16gb-ssd-512-gb-windows-11-geforce-rtx-3050-ti?_lc=88&searchterm=notebook
+13: Notebook Lenovo V14 82UL0017BR Intel Core i7 1255U 14" 16GB SSD 512 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-lenovo-v14-82ul0017br-intel-core-i7-1255u-14-16gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+14: Notebook Multilaser Ultra Intel Core i3 8145U 14" 4GB SSD 120GB Windows 11 UB480 | https://www.zoom.com.br/notebook/notebook-multilaser-ultra-ub480-intel-core-i3-8145u-14-4gb-ssd-120-gb-windows-11?_lc=88&searchterm=notebook
+15: Notebook Lenovo V14 82UN000CBR AMD Ryzen 5 5625U 14" 8GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-lenovo-v14-82un000cbr-amd-ryzen-5-5625u-14-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+16: Notebook Positivo Motion C4500Ei Intel Celeron N3350 14,1" 4GB HD 500 GB Linux | https://www.zoom.com.br/notebook/notebook-positivo-motion-c4500ei-intel-celeron-n3350-14-1-4gb-hd-500-gb-linux-wi-fi?_lc=88&searchterm=notebook
+17: Notebook 2 em 1 Samsung Galaxy Book3 360 NP730QFG-KF2BR Intel Core i5 1335U 13,3" 8GB SSD 256 GB Windows 11 Caneta Digital Leitor Biométrico Touchscreen | https://www.zoom.com.br/notebook/notebook-2-em-1-samsung-galaxy-book3-360-np730qfg-kf2br-intel-core-i5-1335u-13-3-8gb-ssd-256-gb-windows-11-caneta-digital-leitor-biometrico-touchscreen?_lc=88&searchterm=notebook
+18: Notebook Samsung Galaxy Book4 Intel Core i3-1315U 15,6" 8GB SSD 256GB Windows 11 NP750XGJ-KG5BR | https://www.zoom.com.br/notebook/notebook-samsung-book-np750xgj-kg5br-intel-core-i3-1315u-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+19: Notebook Lenovo IdeaPad 3i 82BS0006BR Intel Core i3 10110U 15,6" 4GB SSD 256 GB Windows 10 | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-3i-82bs0006br-intel-core-i3-10110u-15-6-4gb-ssd-256-gb-10-geracao?_lc=88&searchterm=notebook
+20: Notebook Lenovo IdeaPad 1i Intel Core i5 1235U 15,6" 8GB SSD 512GB Windows 11 82VY000QBR | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-1i-82vy000qbr-intel-core-i5-1235u-15-6-8gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+21: Notebook Acer Aspire 5 Intel Core i5 12450H 8GB RAM 256GB SSD Windows 11 Tela Full HD 15.6 A515-57-55B8 | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a515-57-55b8-intel-core-i5-12450h-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+22: Notebook Acer Aspire 5 A515-56G-551P Intel Core i5 1135G7 15,6" 8GB SSD 512 GB Windows 11 GeForce MX350 | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a515-56g-551p-intel-core-i5-1135g7-15-6-8gb-ssd-512-gb-windows-11-geforce-mx350?_lc=88&searchterm=notebook
+23: Notebook Lenovo IdeaPad 3 82MF0004BR AMD Ryzen 7 5700U 15,6" 8GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-3-82mf0004br-amd-ryzen-7-5700u-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+24: Notebook Asus VivoBook Go 15 E1504GA-NJ435W Intel Core i3 N305 15,6" 8 GB SSD 512GB Windows 11 | https://www.zoom.com.br/notebook/notebook-asus-vivobook-go-vivobook-go-15-e1504ga-nj435w-intel-core-i3-n305-15-6-8gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+25: Notebook Acer Aspire 5 A514-54-324N Intel Core i3 1115G4 14" 4GB SSD 256 GB Linux | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a514-54-324n-intel-core-i3-1115g4-14-4gb-ssd-256-gb-linux?_lc=88&searchterm=notebook
+26: Notebook Samsung Galaxy Book3 Intel Core i5 1335U 15,6" 8GB SSD 256GB Windows 11 NP754XFG-KF1BR | https://www.zoom.com.br/notebook/notebook-samsung-galaxy-book3-np754xfg-kf1br-intel-core-i5-1335u-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+27: Notebook Dell Inspiron 15 3520 Intel Core i3 1215U 15,6" 8GB SSD 256GB Linux i3520uadl1003w | https://www.zoom.com.br/notebook/notebook-dell-inspiron-15-3520-i3520uadl1003w-intel-core-i3-1215u-15-6-8gb-ssd-256-gb-ubuntu?_lc=88&searchterm=notebook
+28: Notebook Lenovo IdeaPad 3i 82MDS00600 Intel Core i3 1115G4 15,6" 4GB SSD 128 GB Linux | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-3i-82mds00600-intel-core-i3-1115g4-15-6-4gb-ssd-128-gb-linux?_lc=88&searchterm=notebook
+29: Notebook Gamer Dell G15 G15-i1000-U20P Intel Core i5 10500H 15,6" 8GB SSD 512 GB Linux GeForce GTX 1650 | https://www.zoom.com.br/notebook/notebook-gamer-dell-g15-g15-i1000-u20p-intel-core-i5-10500h-15-6-8gb-ssd-512-gb-linux?_lc=88&searchterm=notebook
+30: Notebook Samsung Book Intel Core i5 1135G7 15,6" 8GB 256 GB Windows 11 NP550XDA-KH2BR | https://www.zoom.com.br/notebook/notebook-samsung-book-np550xda-kh2br-intel-core-i5-1135g7-15-6-8gb-ssd-256-gb-emmc-8-windows-11?_lc=88&searchterm=notebook
+31: Notebook Samsung Galaxy Book2 Intel Core i5 1235U 15,6" 8GB SSD 256GB Windows 11 NP550XED-KF2BR | https://www.zoom.com.br/notebook/notebook-samsung-galaxy-book2-np550xed-kf2br-intel-core-i5-1235u-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+32: Notebook Lenovo IdeaPad 3i 82MD000ABR Intel Core i3 1115G4 15,6" 4GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-3i-82md000abr-intel-core-i3-1115g4-15-6-4gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+33: Notebook Asus X515MA-BR933WS Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-asus-x515ma-br933ws-intel-celeron-n4020-15-6-4gb-ssd-128-gb-windows-11?_lc=88&searchterm=notebook
+34: Notebook Acer Aspire 3 A315-58-573P Intel Core i5 1135G7 15,6" 8GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-acer-aspire-3-a315-58-573p-intel-core-i5-1135g7-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+35: Notebook Acer Aspire 5 Ryzen 7-5700U 15,6? 12GB SSD 512GB Linux A515-45-R36L | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-ryzen-7-5700u-15-6-12gb-ssd-512gb-linux-a515-45-r36l?_lc=88&searchterm=notebook
+36: Notebook 2 em 1 Samsung Galaxy Book3 360 NP750QFG-KS1BR Intel Core i7 1360P 15,6" 16GB SSD 512 GB Windows 11 Caneta Digital Leitor Biométrico Touchscreen | https://www.zoom.com.br/notebook/notebook-2-em-1-samsung-galaxy-book3-360-np750qfg-ks1br-intel-core-i7-1360p-15-6-16gb-ssd-512-gb-windows-11-caneta-digital-leitor-biometrico-touchscreen?_lc=88&searchterm=notebook
+37: Notebook Samsung Samsung Book NP550XDA-KV3BR Intel Core i3 1115G4 15,6" 4GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-samsung-book-np550xda-kv3br-intel-core-i3-1115g4-15-6-4gb-ssd-256-gb-windows-11-11-geracao?_lc=88&searchterm=notebook
+38: Notebook Gamer Asus TUF Gaming F15 Intel Core i5 12500H GTX 3050 15,6" 8GB SSD 512GB Linux FX507ZC4-HN100 | https://www.zoom.com.br/notebook/notebook-gamer-asus-tuf-gaming-f15-fx507zc4-hn100-intel-core-i5-12500h-15-6-8gb-ssd-512-gb-linux-geforce-rtx-3050?_lc=88&searchterm=notebook
+39: Notebook Gamer Asus TUF Gaming F15 FX507ZC4-HN113W Intel Core i7 12700H 15,6" 16GB SSD 512 GB Windows 11 GeForce RTX 3050 | https://www.zoom.com.br/notebook/netbook-gamer-asus-tuf-gaming-f15-fx507zc4-hn113w-intel-core-i7-12700h-15-6-16gb-ssd-512-gb-windows-11-geforce-mx350?_lc=88&searchterm=notebook
+40: Notebook Gamer Dell G15 5520 G15-i1200-M20 Intel Core i5 12500H 15,6" 8GB SSD 512 GB Windows 11 GeForce RTX 3050 | https://www.zoom.com.br/notebook/notebook-gamer-dell-g15-15-5520-intel-core-i5-12500h-15-6-8gb-ssd-512-gb-windows-11-geforce-rtx-3050?_lc=88&searchterm=notebook
+41: Notebook Gamer Dell G15 5530 G15-i1300-A20P Intel Core i5 13450HX 15,6" 8GB SSD 512 GB Windows 11 GeForce RTX 3050 | https://www.zoom.com.br/notebook/notebook-gamer-dell-nvidia-rtx-3050-intel-core-i5-13450hx-8gb-512gb-ssd-tela-full-hd-15-6-windows-11-g15-i1300-a20p?_lc=88&searchterm=notebook
+42: Notebook Samsung Samsung Book NP550XDA-KV4BR Intel Core i3 1115G4 15,6" 8GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-samsung-book-np550xda-kv4br-intel-core-i3-1115g4-15-6-8gb-ssd-256-gb-11-geracao-windows-11?_lc=88&searchterm=notebook
+43: Notebook Acer Aspire 5 A515-57-57T3 Intel Core i5 12450H 15" 8GB SSD 512 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a515-57-57t3-intel-core-i5-12450h-15-8gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+44: Notebook Acer Aspire 5 Intel Core i5 12450H 15,6" 8GB SSD 256GB Windows 11 A515-57-53Z5 | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a515-57-53z5-intel-core-i5-12450h-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+45: Notebook Lenovo IdeaPad 1i 82VY000PBR Intel Core i7 1255U 12ª Geração 15,6" 12GB SSD 512GB Windows 11 | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-1i-82vy000pbr-intel-core-i7-1255u-15-6-12gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+46: Notebook Lenovo IdeaPad 3i 82BSS00100 Intel Core i3 10110U 15,6" 4GB SSD 256 GB Linux | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-3i-82bss00100-intel-core-i3-10110u-15-6-4gb-ssd-256-gb-10-geracao?_lc=88&searchterm=notebook
+47: Notebook Asus Vivobook Go 15 Intel Core i3-N305 15,6" 4GB SSD 128GB Windows 11 E1504GA-NJ440W | https://www.zoom.com.br/notebook/notebook-asus-vivobook-go-e1504ga-nj440w-intel-core-i3-n305-15-6-4gb-ssd-128-gb-linux?_lc=88&searchterm=notebook
+48: Notebook Positivo Vision R15 AMD Ryzen 5-5500U 15,6" 8GB SSD 256GB Windows 11 | https://www.zoom.com.br/notebook/notebook-positivo-vision-r15-amd-ryzen-5-5500u-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+49: Notebook Asus Vivobook 15 Intel Core i5 1235U 15,6" 8GB SSD 512GB Windows 11 X1504ZA-NJ987W | https://www.zoom.com.br/notebook/notebook-asus-vivobook-15-x1504za-nj987w-intel-core-i5-1235u-15-6-4gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+50: Notebook Acer Aspire 5 A515-54-557C Intel Core i5 10210U 15,6" 4GB SSD 256 GB Linux | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a515-54-557c-intel-core-i5-10210u-15-6-4gb-ssd-256-gb-10-geracao?_lc=88&searchterm=notebook
+51: Notebook Dell Inspiron 15 3530 Intel i5 1335U 15,6" 16GB SSD 512GB Windows 11 brpichbto3530gqpbw | https://www.zoom.com.br/notebook/notebook-dell-inspiron-brpichbto3530gqpbw-intel-core-i5-1335u-15-6-16gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+52: Notebook Acer Aspire 5 A515-57-58W1 Intel Core i5 12450H 15,6" 8GB SSD 256 GB Linux | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a515-57-58w1-intel-core-i5-12450h-15-6-8gb-ssd-256-gb-linux?_lc=88&searchterm=notebook
+53: Notebook Lenovo Yoga Slim 6i 83C70001BR Intel Core i7 1260P 14" 16GB SSD 512 GB Windows 11 Touchscreen | https://www.zoom.com.br/notebook/notebook-2-em-1-lenovo-yoga-slim-6i-83c70001br-intel-core-i7-1260p-14-16gb-ssd-512-gb-windows-11-touchscreen?_lc=88&searchterm=notebook
+54: Notebook Lenovo IdeaPad 3i 82BU0006BR Intel Celeron N4020 15,6" 4GB SSD 128 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-3i-82bu0006br-intel-celeron-n4020-15-6-4gb-ssd-128-gb-windows-11?_lc=88&searchterm=notebook
+55: Notebook Lenovo IdeaPad 1i 83AF0000BR Intel Core i3 1215U 14" 4GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-1i-83af0000br-intel-core-i3-1215u-14-4gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+56: Notebook Samsung Galaxy Book2 Intel Core i3 1215U 15,6" 4GB SSD 256GB Windows 11 NP550XED-KT3BR | https://www.zoom.com.br/notebook/notebook-samsung-galaxy-book2-intel-core-i3-1215u-15-6-4gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+57: Notebook Gamer Acer Nitro V 15 Intel Core i5 13420H RTX 3050 15,6" 8GB SSD 512GB Windows 11 ANV15-51-58AZ | https://www.zoom.com.br/notebook/notebook-gamer-acer-nitro-v-anv15-51-58az-intel-core-i5-13420h-15-6-8gb-ssd-512-gb-windows-11-geforce-rtx-3050?_lc=88&searchterm=notebook
+58: Notebook Acer Aspire 3 A315-23-R0LD AMD Ryzen 5 3500U 15,6" 12GB HD 1 TB Windows 10 | https://www.zoom.com.br/notebook/notebook-acer-aspire-3-a315-23-r0ld-amd-ryzen-5-3500u-15-6-12gb-hd-1-tb-windows-10?_lc=88&searchterm=notebook
+59: Notebook Lenovo IdeaPad 3i 82BUS00100 Intel Celeron N4020 15,6" 4GB SSD 128 GB Linux | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-3i-82bus00100-intel-celeron-n4020-15-6-4gb-ssd-128-gb-linux?_lc=88&searchterm=notebook
+60: Notebook Lenovo IdeaPad 1i Intel Core i3-1215U 15,6" 8GB SSD 256GB Windows 11 82VY000SBR | https://www.zoom.com.br/notebook/notebook-lenovo-ideapad-1i-82vy000sbr-intel-core-i3-1215u-15-6-8gb-windows-11?_lc=88&searchterm=notebook
+61: Notebook Acer Aspire 3 A315-510P-34XC Intel Core i3 N305 15,6" 8GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-acer-aspire-3-a315-510p-34xc-intel-core-i3-n305-15-6-8gb-ssd-256-gb-windows-11?_lc=88&searchterm=notebook
+62: Notebook Gamer Lenovo LOQ Intel Core i5 12450H RTX 2050 15,6" 16GB SSD 512GB Windows 11 83EU0001BR | https://www.zoom.com.br/notebook/notebook-lenovo-83eu0001br-intel-core-i5-12450h-15-6-16gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+63: Notebook Dell Inspiron 15 3520 Intel Core i7 1255U 15,6" 16GB SSD 512GB Windows 11 i3520w1014w | https://www.zoom.com.br/notebook/notebook-dell-inspiron-15-3520-i3520w1014w-intel-core-i7-1255u-15-6-16gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+64: Notebook Asus Vivobook 16 Intel Core i7 16" 8GB SSD 512GB Windows 11 X1605ZA-MB311W | https://www.zoom.com.br/notebook/notebook-asus-vivobook-16-x1605za-mb311w-intel-core-i7-1255u-16-8gb-ssd-512-gb?_lc=88&searchterm=notebook
+65: Notebook Acer Aspire 3 A315-56-35ET Intel Core i3 1005G1 15,6" 8GB SSD 512 GB Windows 10 | https://www.zoom.com.br/notebook/notebook-acer-aspire-3-a315-56-35et-intel-core-i3-1005g1-15-6-8gb-ssd-512-gb-10-geracao?_lc=88&searchterm=notebook
+66: Notebook Acer Aspire 5 A514-54-397J Intel Core i3 1115G4 14" 8GB SSD 256 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-acer-aspire-5-a514-54-397j-intel-core-i3-1115g4-14-8gb-ssd-256-gb-windows-11-11-geracao?_lc=88&searchterm=notebook
+67: Notebook Asus Vivobook Go Intel Core i3-N305 15,6" 4GB SSD 256GB Windows 11 E1504GA-NJ447 | https://www.zoom.com.br/notebook/notebook-asus-vivobook-go-e1504ga-nj447-intel-core-i3-n305-15-6-4gb-windows-11?_lc=88&searchterm=notebook
+68: Notebook Samsung Galaxy Book4 Intel Core i7-1355U 15,6? 16GB SSD 512GB Windows 11 NP750XGJ-KG1BR | https://www.zoom.com.br/notebook/notebook-samsung-book-np750xgj-kg1br-intel-core-i7-1355u-15-6-16gb-ssd-512-gb-windows-11?_lc=88&searchterm=notebook
+69: Notebook Acer Aspire 3 A315-56-34A9 Intel Core i3 1005G1 15,6" 8GB HD 1 TB Windows 10 | https://www.zoom.com.br/notebook/notebook-acer-aspire-3-a315-56-34a9-intel-core-i3-1005g1-15-6-8gb-hd-1-tb-10-geracao?_lc=88&searchterm=notebook
+70: Notebook Samsung Galaxy Book GO NP340XLA-K06BR Qualcomm Snapdragon 7c 14" 4GB SSD 128 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-samsung-galaxy-book-go-np340xla-k06br-qualcomm-snapdragon-7c-14-4gb-ssd-128-gb-windows-11?_lc=88&searchterm=notebook
+71: Notebook Positivo Vision C14 C4128A-14 Intel Celeron N4020 14,1" 4GB eMMC 128 GB Windows 11 | https://www.zoom.com.br/notebook/notebook-positivo-vision-c14-c4128a-14-intel-celeron-n4020-14-1-4gb-emmc-128-gb-windows-11?_lc=88&searchterm=notebook

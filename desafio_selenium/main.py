@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 from time import sleep
+import re
 
 # para inicializar o driver
 driver = webdriver.Chrome()
@@ -26,16 +27,21 @@ def get_products():
     sleep(3)  # para guardar o carregamento da página
     # para selecionar os produtos pelo seletor apropriado
     products = driver.find_elements(By.CSS_SELECTOR, 'h2[id^="product-card-"]')
-    # para extrair os nomes dos produtos e adicionar a uma lista
-    list_products = [product.text for product in products]
+    product_data = []
+
+    # para extrair os nomes e links dos produtos
+    for product in products:
+        name = product.text
+        link = product.find_element(By.XPATH, './ancestor::a').get_attribute('href')  # pega o link do produto
+        product_data.append((name, link))
 
     # para verificar o número de produtos encontrados e os nomes capturados
-    print(f"Produtos encontrados: {len(products)}")
-    print("Produtos capturados:")
-    for product in list_products:
-        print(product)
+    # print(f"Produtos encontrados: {len(products)}")
+    # print("Produtos capturados:")
+    # for product in list_products:
+    #     print(product)
 
-    return list_products
+    return product_data
 
 # função para capturar produtos de todas as páginas
 def capture_all_products():
@@ -60,8 +66,8 @@ all_products = capture_all_products()
 
 # para escrever os produtos no arquivo de texto 'products.txt'
 with open('products.txt', 'w', encoding='utf-8') as file:
-    for i, product in enumerate(all_products, 1):
-        file.write(f"{i}: {product}\n")
+    for i, (product, link) in enumerate(all_products, 1):
+        file.write(f"{i}: {product} | {link}\n")
 
 
 # para voltar à primeira página
@@ -86,8 +92,8 @@ try:
 
     # para adicionar os produtos filtrados no arquivo 'products_best_rated.txt'
     with open('products_best_rated.txt', 'w', encoding='utf-8') as file:
-        for i, product in enumerate(all_products_filtered, 1):
-            file.write(f"{i}: {product}\n")
+        for i, (product, link) in enumerate(all_products_filtered, 1):
+            file.write(f"{i}: {product} | {link}\n")
 
 except Exception as e:
     print(f"Erro ao aplicar filtro: {e}")
@@ -113,11 +119,79 @@ try:
 
     # para escrever os produtos filtrados no arquivo 'products_lowest_price.txt'
     with open('products_lowest_price.txt', 'w', encoding='utf-8') as file:
-        for i, product in enumerate(all_products_filtered, 1):
-            file.write(f"{i}: {product}\n")
+        for i, (product, link) in enumerate(all_products_filtered, 1):
+            file.write(f"{i}: {product} | {link}\n")
 
 except Exception as e:
     print(f"Erro ao aplicar filtro: {e}")
+
+
+# função para ler os produtos de um arquivo
+def read_products(file_name):
+    products = []
+    with open(file_name, 'r', encoding='utf-8') as file:
+        for line in file:
+            match = re.match(r'(\d+): (.+?) \| (.+)', line.strip())
+            if match:
+                index, name, link = match.groups()
+                products.append((int(index), name, link))
+    return products
+
+# função para extrair o nome dos produtos
+def extract_product_names(products):
+    return {name for _, name in products}
+
+# para ler produtos dos arquivos
+best_rated_products = read_products('products_best_rated.txt')
+lowest_price_products = read_products('products_lowest_price.txt')
+
+# para extrair os nomes dos produtos
+best_rated_data = {name: link for _, name, link in best_rated_products}
+lowest_price_data = {name: link for _, name, link in lowest_price_products}
+
+# para encontrar os produtos que estão em ambos os arquivos
+common_products = set(best_rated_data.keys()).intersection(lowest_price_data.keys())
+
+# para limitar a 5 produtos
+top_5_products = list(common_products)[:5]
+
+print("\nTop 5 produtos:")
+for product in top_5_products:
+    print(f"{product}: {best_rated_data[product]}")
+
+
+def get_product_details(product_url):
+    driver.get(product_url)
+    sleep(3)  # espera o carregamento da página
+
+    try:
+        title = driver.find_element(By.CSS_SELECTOR, 'h1').text  # título do produto
+        price = driver.find_element(By.CSS_SELECTOR, '.Price_ValueContainer__ndCqK').text  # preço
+        specifications = driver.find_elements(By.CSS_SELECTOR, '.Text.MobileLabelS')  # lista de especificações
+
+        specs_text = "\n".join([spec.text for spec in specifications])
+
+        return {
+            'title': title,
+            'price': price,
+            'specifications': specs_text
+        }
+    except Exception as e:
+        print(f"Erro ao extrair detalhes do produto: {e}")
+        return None
+
+
+# para criar um arquivo para salvar as configurações
+with open('top_5_product_details.txt', 'w', encoding='utf-8') as details_file:
+    for product in top_5_products:
+        link = best_rated_data[product]  # link do produto
+        details = get_product_details(link)
+
+        if details:
+            details_file.write(f"Produto: {details['title']}\n")
+            details_file.write(f"Preço: {details['price']}\n")
+            details_file.write(f"Especificações:\n{details['specifications']}\n")
+            details_file.write("\n" + "="*40 + "\n\n")  # separador entre produtos
 
 
 sleep(3)
